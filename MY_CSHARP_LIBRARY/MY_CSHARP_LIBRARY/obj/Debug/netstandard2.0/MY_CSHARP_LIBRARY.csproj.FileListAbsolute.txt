@@ -1,0 +1,17 @@
+\\DESKTOP-RKIS8ED\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\bin\Debug\netstandard2.0\MY_CSHARP_LIBRARY.deps.json
+\\DESKTOP-RKIS8ED\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\bin\Debug\netstandard2.0\MY_CSHARP_LIBRARY.dll
+\\DESKTOP-RKIS8ED\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\bin\Debug\netstandard2.0\MY_CSHARP_LIBRARY.pdb
+\\DESKTOP-RKIS8ED\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.csprojAssemblyReference.cache
+\\DESKTOP-RKIS8ED\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.AssemblyInfoInputs.cache
+\\DESKTOP-RKIS8ED\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.AssemblyInfo.cs
+\\DESKTOP-RKIS8ED\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.csproj.CoreCompileInputs.cache
+\\DESKTOP-RKIS8ED\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.dll
+\\DESKTOP-RKIS8ED\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.pdb
+C:\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\bin\Debug\netstandard2.0\MY_CSHARP_LIBRARY.deps.json
+C:\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\bin\Debug\netstandard2.0\MY_CSHARP_LIBRARY.dll
+C:\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\bin\Debug\netstandard2.0\MY_CSHARP_LIBRARY.pdb
+C:\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.AssemblyInfoInputs.cache
+C:\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.AssemblyInfo.cs
+C:\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.dll
+C:\Users\Dolotboy\Desktop\Dolotboy\Programmation\MY_CSHARP_LIBRARY\MY_CSHARP_LIBRARY\obj\Debug\netstandard2.0\MY_CSHARP_LIBRARY.pdb
