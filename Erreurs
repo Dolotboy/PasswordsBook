@@ -1,0 +1,9 @@
+Dans le projet PasswordsBook dans ViewModel/InscriptionViewModel.cs à la ligne 64, j'appel ma méthode CorruptString dans laquel je passe en paramètre la string à passé qui elle est
+la méthode EncryptString qui change par exemple "Max" pour "J8G" à ce niveau ,il n'y a aucun problème, c'est vraiment dans le CorruptString que ça ne fonctionne pas du moment
+où je ne lance pas sans point d'arrêt.
+
+Donc je prend ma string exemple "Max", je la transforme en "J8G" puis je rajoute des caractères pas rapports pour rendre la decryption plus difficile pour donner "Jr8nFG1"
+Ça fait Caractère normal + Caractère par rapport + Caractère normal + 2(Caractère par rapport) + Caractère normal + Caractère par rapport et ainsi de suite
+
+La méthode d'encryption (Qui fonctionne) se trouve dans StringEncryptor.cs c'est la même méthode pour encrypter et décrypter
+La méthode CorruptString ce trouve dans la bibliothèque de classe MY_CSHARP_LIBRARY dans StringCorruptor.cs qui contient la méthode de corruption ainsi que c'elle de décorruption
